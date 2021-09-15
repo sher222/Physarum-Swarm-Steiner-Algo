@@ -7,4 +7,4 @@ Code implements ideas from the following papers:
 
 Three implementations are provided: the standard algorithm which works on both rectangles and squares, an obstacle avoidance implementation, and finally a implementation to find Steiner trees on a torus. Sample grids and boundaries are provided in grids.
 
-Webaddress for this repository: https://github.com/sher222/Physarum-Swarm-Steiner-Algo/tree/main
+Url of this repository: https://github.com/sher222/Physarum-Swarm-Steiner-Algo/tree/main
