@@ -6,3 +6,5 @@ Code implements ideas from the following papers:
 * Y. Gunji, Y.-P. Gunji, T. Shirakawa, T. Niizato, and T. Haruna, “Minimal model of a cell connecting amoebic motion andadaptive transport networks,” Journal of Theoretical Biology, pp. 659 – 667, 2008.
 
 Three implementations are provided: the standard algorithm which works on both rectangles and squares, an obstacle avoidance implementation, and finally a implementation to find Steiner trees on a torus. Sample grids and boundaries are provided in grids.
+
+Webaddress for this repository: https://github.com/sher222/Physarum-Swarm-Steiner-Algo/tree/main
