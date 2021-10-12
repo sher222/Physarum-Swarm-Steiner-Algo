@@ -1,5 +1,5 @@
 # Physarum-Swarm-Steiner-Algo
-Source code for The Power of Many: A Physarum Swarm Steiner Tree Algorithm
+Source code for The Power of Many: A Physarum Steiner Tree Algorithm
 
 Code implements ideas from the following papers: 
 * Sheryl Hsu and Laura P. Schaposnik. Cell fusion through slime mold network dynamics. Manuscript submitted for publication, 2021. https://arxiv.org/abs/2106.11371
