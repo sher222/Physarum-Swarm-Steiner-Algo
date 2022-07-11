@@ -1,5 +1,6 @@
 Description of test cases used in each figure
 ---
+
 ###Figure 2 (a): Folder Time complexity a
 
 | N (number of points) | file numbers |
@@ -15,7 +16,7 @@ Description of test cases used in each figure
 |900|680-689|
 |1000|690-699|
 
-###Figure 2 (b): Folder Time complexity b
+### Figure 2 (b): Folder Time complexity b
 
 |M (size of grid) | file numbers |
 | -------------------- | ------------ |
@@ -31,7 +32,7 @@ Description of test cases used in each figure
 |230|7090-7099|
 |250|7100-7109|
 
-###Figure 2 (c): Folder Time complexity c
+### Figure 2 (c): Folder Time complexity c
 
 |N (number of points) | M (size of grid, normalized to N) | file numbers|
 |------|------|-----|
@@ -46,6 +47,6 @@ Description of test cases used in each figure
 |900|212|880-889|
 |1000|224|890-899|
 
-###Figure 4
+### Figure 4
 
 For each number of cells (1, 9, 25, and 100), trials are run with varying cell sizes. Each combination of cell size and cell number is run 10 times on 10 test files (Effect of multiple cells/500-509). All 10 of these test files have N = 100, M = 100.
