@@ -1,7 +1,7 @@
 Description of test cases used in each figure
 ---
 
-###Figure 2 (a): Folder Time complexity a
+### Figure 2 (a): Folder Time complexity a
 
 | N (number of points) | file numbers |
 | -------------------- | ------------ |
