@@ -5,7 +5,7 @@ Description of test cases used in each figure
 
 | N (number of points) | file numbers |
 | -------------------- | ------------ |
-| 100                  | 600 - 609|
+| 100                  | 600-609|
 |200|610-619|
 |300|620-629|
 |400|630-639|
