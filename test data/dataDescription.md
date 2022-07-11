@@ -14,6 +14,7 @@ Figure 2 (a): Folder Time complexity a
 |800|670-679|
 |900|680-689|
 |1000|690-699|
+
 Figure 2 (b): Folder Time complexity b
 
 |M (size of grid) | file numbers |
@@ -29,6 +30,7 @@ Figure 2 (b): Folder Time complexity b
 |210|7080-7089|
 |230|7090-7099|
 |250|7100-7109|
+
 Figure 2 (c): Folder Time complexity c
 
 |N (number of points) | M (size of grid, normalized to N) | file numbers|
