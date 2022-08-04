@@ -1,1 +1,3 @@
-Presented in this folder is the test data used in our paper. A description of the test cases can be found in data_description.md.
+Presented in this folder is the test data used in our paper. A description of the test cases can be found in dataDescription.md.
+
+For our paper, we ran all tests using Amazon Web Services (AWS) Batch. Each machine used a modified [docker image](https://hub.docker.com/r/sher222/span_tree) based on the publicly available amazonlinux image.
